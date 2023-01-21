@@ -1,1 +1,0 @@
-SELECT * FROM assignment1.orders;
